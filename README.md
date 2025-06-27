@@ -1,2 +1,2 @@
 # Pharos
-Auto
+Auto deploy, wrap, send
